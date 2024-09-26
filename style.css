@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("../images/background.jpg");
+    background-image: url("background.jpg");
     color: #ebfffc;
     min-height: 100vh;
     display: flex;
