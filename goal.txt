@@ -1,0 +1,9 @@
+Project: Fitness Tracking App
+
+Description: Designed and developed a fitness tracking web application.
+Tech Stack: Figma for design, HTML, CSS for implementation.
+Features: User profile management, activity logging, and progress visualization.
+Highlights:
+Show initial sketches, wireframes, and final designs created in Figma.
+Demonstrate responsive design and accessibility considerations.
+Include a video or GIF showing the user flow.
